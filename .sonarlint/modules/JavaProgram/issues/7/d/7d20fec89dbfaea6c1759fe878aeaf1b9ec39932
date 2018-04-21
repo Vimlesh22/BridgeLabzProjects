@@ -1,0 +1,19 @@
+
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹¼Õ²øÿÿÿÿHîRMAJORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(·ù¹ûÿÿÿÿHíRMINORZ
+CODE_SMELL
+fsquid:S1854"9Remove this useless assignment to local variable "array".(àÍ¹ŠHòRMAJORZ
+CODE_SMELL
+j
+squid:S106'"9Replace this use of System.out or System.err by a logger.(¸î“ÈÿÿÿÿÿHïRMAJORZ
+CODE_SMELL
+j
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHñRMAJORZ
+CODE_SMELL
+e
+squid:S106*"9Replace this use of System.out or System.err by a logger.(×•œ²HğRMAJORZ
+CODE_SMELL
+fsquid:S1854"9Remove this useless assignment to local variable "array".(àÍ¹ŠHóRMAJORZ
+CODE_SMELL

@@ -1,0 +1,16 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ëõÍüÿÿÿÿHèŽRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(±‚·ëøÿÿÿÿHéŽRMAJORZ
+CODE_SMELL
+asquid:UselessImportCheck	"&Remove this unused import 'pojos.Emp'.(Øžš×HêŽRMINORZ
+CODE_SMELL
+gsquid:UselessImportCheck"'Remove this unused import 'dao.EmpDao'.(ÏÛâÇüÿÿÿÿHëŽRMINORZ
+CODE_SMELL
+esquid:UselessImportCheck"*Remove this unused import 'java.sql.Date'.(ÙÀ½ÊHìŽRMINORZ
+CODE_SMELL
+ksquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHíŽRMINORZ
+CODE_SMELL
+Ysquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHîŽRMINORZVULNERABILITY

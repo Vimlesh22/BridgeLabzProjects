@@ -1,0 +1,19 @@
+[ {
+  "firstName" : "ganesh",
+  "lastName" : "nadar",
+  "address" : {
+    "city" : "mum",
+    "state" : "maha",
+    "zip" : 444
+  },
+  "mobileNo" : 222
+}, {
+  "firstName" : "jaspreet",
+  "lastName" : "singh",
+  "address" : {
+    "city" : "mumbai",
+    "state" : "maha",
+    "zip" : 40078
+  },
+  "mobileNo" : 111
+} ]

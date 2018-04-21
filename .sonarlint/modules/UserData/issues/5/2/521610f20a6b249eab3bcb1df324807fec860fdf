@@ -1,0 +1,44 @@
+
+vsquid:S2095T"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(çİ¥_8Ö¥˜–®,H—˜RBLOCKERZBUG
+r
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(Û¢ƒüÿÿÿÿ8Š²õ•®,H˜˜RMAJORZ
+CODE_SMELL
+xsquid:S2095Q"HUse try-with-resources or close this "Connection" in a "finally" clause.(À°¿³8Çâ…–®,H™˜RBLOCKERZBUG
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(í–İÈ8ø³¹”®,Hš˜RMAJORZ
+CODE_SMELL
+`squid:S1148`"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Çâ…–®,H›˜RMINORZVULNERABILITY
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¡‡Âi8Çâ…–®,Hœ˜RMAJORZ
+CODE_SMELL
+squid:S2095S"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©İ‰·8Çâ…–®,H˜RBLOCKERZBUG
+r
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Ôß¬¹ùÿÿÿÿ8Ö¥˜–®,H˜RMAJORZ
+CODE_SMELL
+r
+squid:S106L"9Replace this use of System.out or System.err by a logger.(û…àÙøÿÿÿÿ8ø³¹”®,HŸ˜RMAJORZ
+CODE_SMELL
+`squid:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Š²õ•®,H ˜RMINORZVULNERABILITY
+xsquid:S20957"HUse try-with-resources or close this "Connection" in a "finally" clause.(À°¿³8Š²õ•®,H¡˜RBLOCKERZBUG
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò½Õ›ùÿÿÿÿ8ø³¹”®,H¢˜RMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì«›Ô8ø³¹”®,H£˜RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºÊôÂúÿÿÿÿ8¢½•®,H¤˜RMAJORZ
+CODE_SMELL
+r
+squid:S1062"9Replace this use of System.out or System.err by a logger.(û…àÙøÿÿÿÿ8Çâ…–®,H¥˜RMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(°Ü²Ò8ø³¹”®,H¦˜RMAJORZ
+CODE_SMELL
+r
+squid:S106J"9Replace this use of System.out or System.err by a logger.(Ôß¬¹ùÿÿÿÿ8Š²õ•®,H§˜RMAJORZ
+CODE_SMELL
+„squid:S20959"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïı±òúÿÿÿÿ8Š²õ•®,H¨˜RBLOCKERZBUG
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(İê€@8¢½•®,H©˜RMAJORZ
+CODE_SMELL

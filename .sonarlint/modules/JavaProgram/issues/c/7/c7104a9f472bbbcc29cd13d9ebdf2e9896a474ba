@@ -1,0 +1,64 @@
+
+e
+squid:S1068"9Replace this use of System.out or System.err by a logger.(¡ÛÓ)HûŒRMAJORZ
+CODE_SMELL
+f
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ŠªñHüŒRMAJORZ
+CODE_SMELL
+k
+squid:S106G"9Replace this use of System.out or System.err by a logger.(š¯ğ¥üÿÿÿÿHıŒRMAJORZ
+CODE_SMELL
+k
+squid:S106="9Replace this use of System.out or System.err by a logger.(š¯ğ¥üÿÿÿÿHşŒRMAJORZ
+CODE_SMELL
+f
+squid:S106\"9Replace this use of System.out or System.err by a logger.(İ¦ÎÀHÿŒRMAJORZ
+CODE_SMELL
+e
+squid:S106o"9Replace this use of System.out or System.err by a logger.(²¹¨8H€RMAJORZ
+CODE_SMELL
+Õ%squid:RedundantThrowsDeclarationCheck"‡Remove the declaration of thrown exception 'org.codehaus.jackson.JsonGenerationException' which is a subclass of 'java.io.IOException'.(§ÆÓ°úÿÿÿÿHRMINORZ
+CODE_SMELL
+Ö%squid:RedundantThrowsDeclarationCheck"ˆRemove the declaration of thrown exception 'org.codehaus.jackson.map.JsonMappingException' which is a subclass of 'java.io.IOException'.(§ÆÓ°úÿÿÿÿH‚RMINORZ
+CODE_SMELL
+k
+squid:S106V"9Replace this use of System.out or System.err by a logger.(´È§“ıÿÿÿÿHƒRMAJORZ
+CODE_SMELL
+f
+squid:S106k"9Replace this use of System.out or System.err by a logger.(„òåH„RMAJORZ
+CODE_SMELL
+f
+squid:S106x"9Replace this use of System.out or System.err by a logger.(şèîüH…RMAJORZ
+CODE_SMELL
+k
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(¡¹—ÒøÿÿÿÿH†RMAJORZ
+CODE_SMELL
+g
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(”çÉÑH‡RMAJORZ
+CODE_SMELL
+¹%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(§ÆÓ°úÿÿÿÿHˆRMINORZ
+CODE_SMELL
+k
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ÛÇ’æÿÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+f
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ï ‰“HŠRMAJORZ
+CODE_SMELL
+f
+squid:S106d"9Replace this use of System.out or System.err by a logger.(„òåH‹RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø°ª×ùÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+f
+squid:S106a"9Replace this use of System.out or System.err by a logger.(Õ ñ†HRMAJORZ
+CODE_SMELL
+k
+squid:S106v"9Replace this use of System.out or System.err by a logger.(«ÎÖµøÿÿÿÿHRMAJORZ
+CODE_SMELL
+f
+squid:S106r"9Replace this use of System.out or System.err by a logger.(„òåHRMAJORZ
+CODE_SMELL
+k
+squid:S106D"9Replace this use of System.out or System.err by a logger.(¿Ì·ÜüÿÿÿÿHRMAJORZ
+CODE_SMELL

@@ -1,0 +1,625 @@
+
+f
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(›™õ‘Hş|RMAJORZ
+CODE_SMELL
+‡squid:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(øäãÑH¬|RMINORZ
+CODE_SMELL
+lsquid:S1854ò"9Remove this useless assignment to local variable "count".(÷Ù¶ŠùÿÿÿÿHÑ}RMAJORZ
+CODE_SMELL
+k
+squid:S106Ì
+"9Replace this use of System.out or System.err by a logger.(Õ¿¡ÃşÿÿÿÿHŸ}RMAJORZ
+CODE_SMELL
+Œsquid:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÇ‚øÿÿÿÿH©|RMINORZ
+CODE_SMELL
+Jsquid:S1643ú"Use a StringBuilder instead.(»Ñ¬Hß{RMINORZ
+CODE_SMELL
+f
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(éâ—ÊHÄ|RMAJORZ
+CODE_SMELL
+`squid:S2093"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿH³|RCRITICALZ
+CODE_SMELL
+ksquid:S1197Ë"8Move the array designator from the variable to the type.(É½™¤ùÿÿÿÿH‘|RMINORZ
+CODE_SMELL
+k
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(®å÷ßúÿÿÿÿHÉ|RMAJORZ
+CODE_SMELL
+k
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(şÊÊªøÿÿÿÿH}RMAJORZ
+CODE_SMELL
+bsquid:S1066Æ"/Merge this if statement with the enclosing one.(ç¡ûÛúÿÿÿÿH¦|RMAJORZ
+CODE_SMELL
+k
+squid:S106Ú"9Replace this use of System.out or System.err by a logger.(ì÷½ÆûÿÿÿÿHï|RMAJORZ
+CODE_SMELL
+Osquid:S1643Ï"Use a StringBuilder instead.(¯ùù¢úÿÿÿÿHÜ{RMINORZ
+CODE_SMELL
+Osquid:S1643ç"Use a StringBuilder instead.(ÙØß×şÿÿÿÿHŞ{RMINORZ
+CODE_SMELL
+k
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(ÖÙÕÎøÿÿÿÿH‚}RMAJORZ
+CODE_SMELL
+lsquid:S2696¨"6Make the enclosing method "static" or remove this set.(¨¤Ê–ÿÿÿÿÿH¶}RCRITICALZ
+CODE_SMELL
+Ysquid:S1148š
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHŞ}RMINORZVULNERABILITY
+k
+squid:S106†"9Replace this use of System.out or System.err by a logger.(ıÀ­ğùÿÿÿÿHÎ|RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHå|RMAJORZ
+CODE_SMELL
+ksquid:S1197Û"8Move the array designator from the variable to the type.(¡‚¡˜ùÿÿÿÿH”|RMINORZ
+CODE_SMELL
+k
+squid:S106­"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHİ|RMAJORZ
+CODE_SMELL
+Ysquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÖ}RMINORZVULNERABILITY
+k
+squid:S106ù	"9Replace this use of System.out or System.err by a logger.(¨‰ËùÿÿÿÿHˆ}RMAJORZ
+CODE_SMELL
+f
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ˆ÷·³H¿|RMAJORZ
+CODE_SMELL
+]squid:EmptyStatementUsageCheckå"Remove this empty statement.(“ÀŞ…Hã{RMINORZ
+CODE_SMELL
+Psquid:S1659¢
+"#Declare "price" on a separate line.(Œ¿×!Hî{RMINORZ
+CODE_SMELL
+k
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(ø¹†‚úÿÿÿÿHÆ|RMAJORZ
+CODE_SMELL
+Vsquid:S1659ô"#Declare "temp1" on a separate line.(ÂéùÙúÿÿÿÿHä{RMINORZ
+CODE_SMELL
+Isquid:S1643…"Use a StringBuilder instead.(“§ù'Há{RMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(É¿ÕüÿÿÿÿHç|RMAJORZ
+CODE_SMELL
+k
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHı|RMAJORZ
+CODE_SMELL
+n
+squid:S106›"9Replace this use of System.out or System.err by a logger.(’âäĞ8ëÒÀÄ«,H™†RMAJORZ
+CODE_SMELL
+f
+squid:S106»"9Replace this use of System.out or System.err by a logger.(àø¼øH—}RMAJORZ
+CODE_SMELL
+k
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(ƒ´À×ıÿÿÿÿHÛ|RMAJORZ
+CODE_SMELL
+ƒsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(çúÔöH¿}RCRITICALZ
+CODE_SMELL
+ksquid:S1197ˆ"8Move the array designator from the variable to the type.(âòÌÓøÿÿÿÿHı{RMINORZ
+CODE_SMELL
+vsquid:S2095ü	"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(îöÏûÿÿÿÿH¹|RBLOCKERZBUG
+f
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(¢üÄ°HÇ|RMAJORZ
+CODE_SMELL
+f
+squid:S106ş"9Replace this use of System.out or System.err by a logger.(ƒÈåËH–}RMAJORZ
+CODE_SMELL
+e
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(’æJHõ|RMAJORZ
+CODE_SMELL
+|squid:S1192è	"FDefine a constant instead of duplicating this literal "Price" 4 times.(ŞòáøùÿÿÿÿH¢|RCRITICALZ
+CODE_SMELL
+ˆsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(É½™¤ùÿÿÿÿHÅ}RCRITICALZ
+CODE_SMELL
+{squid:S3008)"NRename this field "NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·­íH¥|RMINORZ
+CODE_SMELL
+[squid:S1125—"(Remove the literal "true" boolean value.(µ¸¨£şÿÿÿÿH®}RMINORZ
+CODE_SMELL
+f
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(è §ÀH}RMAJORZ
+CODE_SMELL
+bsquid:EmptyStatementUsageCheck«
+"Remove this empty statement.(ë¢‡«øÿÿÿÿHâ{RMINORZ
+CODE_SMELL
+Ysquid:S1148ó"#Use a logger to log this exception.(¡„àŒúÿÿÿÿHã}RMINORZVULNERABILITY
+esquid:S1197ì"8Move the array designator from the variable to the type.(Ü˜òtH|RMINORZ
+CODE_SMELL
+f
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¼ø¡åHÓ|RMAJORZ
+CODE_SMELL
+e
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(¬¯èqH}RMAJORZ
+CODE_SMELL
+k
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ºª¬·ûÿÿÿÿH›}RMAJORZ
+CODE_SMELL
+ksquid:S1197Í"8Move the array designator from the variable to the type.(«ƒõúÿÿÿÿH“|RMINORZ
+CODE_SMELL
+e
+squid:S106ì
+"9Replace this use of System.out or System.err by a logger.(ıìôaHÜ|RMAJORZ
+CODE_SMELL
+fsquid:S1197‰"8Move the array designator from the variable to the type.(ĞìØHş{RMINORZ
+CODE_SMELL
+Wsquid:S1659Î"$Declare "column" on a separate line.(†Æ¼§ÿÿÿÿÿHğ{RMINORZ
+CODE_SMELL
+Xsquid:S1148u"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÕ}RMINORZVULNERABILITY
+fsquid:S1197Õ"8Move the array designator from the variable to the type.(ñÓH’|RMINORZ
+CODE_SMELL
+ƒsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(ÿÆñ¿HÂ}RCRITICALZ
+CODE_SMELL
+Rsquid:S1659"$Declare "column" on a separate line.(èşÿÏHö{RMINORZ
+CODE_SMELL
+ksquid:S1197§"8Move the array designator from the variable to the type.(‚€³ÓşÿÿÿÿHŒ|RMINORZ
+CODE_SMELL
+ksquid:S1197ı"8Move the array designator from the variable to the type.(Š¿ïªıÿÿÿÿH‰|RMINORZ
+CODE_SMELL
+k
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(éãİÑıÿÿÿÿHÍ|RMAJORZ
+CODE_SMELL
+k
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿH’}RMAJORZ
+CODE_SMELL
+Osquid:S1643±"Use a StringBuilder instead.(Ò¨è×ÿÿÿÿÿHÛ{RMINORZ
+CODE_SMELL
+ksquid:S1197ó"8Move the array designator from the variable to the type.(«ƒõúÿÿÿÿH—|RMINORZ
+CODE_SMELL
+Ysquid:S1148†
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHà}RMINORZVULNERABILITY
+fsquid:S1197ö"8Move the array designator from the variable to the type.(ĞÂôòHû{RMINORZ
+CODE_SMELL
+Usquid:S1659"'Declare "randomRow" on a separate line.(èşÿÏHñ{RMINORZ
+CODE_SMELL
+†squid:S1192ì
+"VDefine a constant instead of duplicating this literal "Please Try Again!!!!!" 3 times.(ıìôaH |RCRITICALZ
+CODE_SMELL
+f
+squid:S106â"9Replace this use of System.out or System.err by a logger.(Ñ‘ìñH”}RMAJORZ
+CODE_SMELL
+k
+squid:S106š"9Replace this use of System.out or System.err by a logger.(ˆ’šÀùÿÿÿÿHß|RMAJORZ
+CODE_SMELL
+f
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(â©ÁïH‡}RMAJORZ
+CODE_SMELL
+fsquid:S1197Ş"8Move the array designator from the variable to the type.(ÊØÖÌH˜|RMINORZ
+CODE_SMELL
+zsquid:S2095÷"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®ÙœÿÿÿÿÿHº|RBLOCKERZBUG
+lsquid:S2696Ì"6Make the enclosing method "static" or remove this set.(¨¤Ê–ÿÿÿÿÿH¸}RCRITICALZ
+CODE_SMELL
+ksquid:S1197—"8Move the array designator from the variable to the type.(„³šºşÿÿÿÿHœ|RMINORZ
+CODE_SMELL
+f
+squid:S106£	"9Replace this use of System.out or System.err by a logger.(À¶Ì”HÔ|RMAJORZ
+CODE_SMELL
+f
+squid:S106Ú"9Replace this use of System.out or System.err by a logger.(ÈøÖHÈ|RMAJORZ
+CODE_SMELL
+osquid:S1126"AReplace this if-then-else statement by a single return statement.(â·¢ÉH«}RMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıâæÎıÿÿÿÿH}RMAJORZ
+CODE_SMELL
+’squid:S1488Í"_Immediately return this expression instead of assigning it to the temporary variable "payment".(¹Óº¼øÿÿÿÿH´}RMINORZ
+CODE_SMELL
+Rsquid:S1659¡"Declare "b" on a separate line.(„û ”ùÿÿÿÿHç{RMINORZ
+CODE_SMELL
+f
+squid:S106å"9Replace this use of System.out or System.err by a logger.(“ÀŞ…H }RMAJORZ
+CODE_SMELL
+fsquid:S1197õ"8Move the array designator from the variable to the type.(ğ½Á¹Hú{RMINORZ
+CODE_SMELL
+f
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(‚À¯®H}RMAJORZ
+CODE_SMELL
+lsquid:S2696¶"6Make the enclosing method "static" or remove this set.(öôîÀøÿÿÿÿH·}RCRITICALZ
+CODE_SMELL
+}squid:S1192è	"GDefine a constant instead of duplicating this literal "Weight" 3 times.(ŞòáøùÿÿÿÿH¤|RCRITICALZ
+CODE_SMELL
+e
+squid:S106À	"9Replace this use of System.out or System.err by a logger.(Ô“´H×|RMAJORZ
+CODE_SMELL
+f
+squid:S106ÿ	"9Replace this use of System.out or System.err by a logger.(ğàæ˜Hñ|RMAJORZ
+CODE_SMELL
+k
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(¯›ÈŞÿÿÿÿÿHÂ|RMAJORZ
+CODE_SMELL
+ˆsquid:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(£ş“¸ÿÿÿÿÿHÃ}RCRITICALZ
+CODE_SMELL
+hsquid:S1854˜":Remove this useless assignment to local variable "middle".(Ëº»HÎ}RMAJORZ
+CODE_SMELL
+Xsquid:S1148f"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÔ}RMINORZVULNERABILITY
+ƒsquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¦şçªH¾}RCRITICALZ
+CODE_SMELL
+ˆsquid:S1488¼"ZImmediately return this expression instead of assigning it to the temporary variable "d1".(òÊääH³}RMINORZ
+CODE_SMELL
+Vsquid:S1659ü"#Declare "temp1" on a separate line.(ßĞÊòúÿÿÿÿHø{RMINORZ
+CODE_SMELL
+k
+squid:S106º"9Replace this use of System.out or System.err by a logger.(ƒ´À×ıÿÿÿÿHœ}RMAJORZ
+CODE_SMELL
+Œsquid:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿH­|RMINORZ
+CODE_SMELL
+e
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ıìôaH•}RMAJORZ
+CODE_SMELL
+f
+squid:S106ş"9Replace this use of System.out or System.err by a logger.(§·ğHû|RMAJORZ
+CODE_SMELL
+Œsquid:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ãÈ×ûÿÿÿÿH«|RMINORZ
+CODE_SMELL
+Ysquid:S1148Ö
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHİ}RMINORZVULNERABILITY
+k
+squid:S106à"9Replace this use of System.out or System.err by a logger.(˜Ô–úÿÿÿÿHŞ|RMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(º¼É°HÏ|RMAJORZ
+CODE_SMELL
+k
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHù|RMAJORZ
+CODE_SMELL
+k
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHî|RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(’‘ËÄıÿÿÿÿHÿ|RMAJORZ
+CODE_SMELL
+k
+squid:S106	"9Replace this use of System.out or System.err by a logger.(øîÜ«ûÿÿÿÿHÒ|RMAJORZ
+CODE_SMELL
+Rsquid:S1659Æ"Declare "j" on a separate line.(á”æåşÿÿÿÿHé{RMINORZ
+CODE_SMELL
+ksquid:S1197¹"8Move the array designator from the variable to the type.(»ïëùÿÿÿÿH†|RMINORZ
+CODE_SMELL
+Wsquid:S1659ô"$Declare "column" on a separate line.(†Æ¼§ÿÿÿÿÿHô{RMINORZ
+CODE_SMELL
+Ysquid:S1659ô"&Declare "countRow" on a separate line.(†Æ¼§ÿÿÿÿÿH÷{RMINORZ
+CODE_SMELL
+f
+squid:S106°"9Replace this use of System.out or System.err by a logger.(Ã©‚ƒHá|RMAJORZ
+CODE_SMELL
+msquid:S2184Ú"ACast one of the operands of this addition operation to a "float".(¢‹ÿûÿÿÿÿH×{RMINORZBUG
+ƒsquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(á¹ê¹HÁ}RCRITICALZ
+CODE_SMELL
+~squid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(ğÆÖİıÿÿÿÿH¼|RMAJORZ
+CODE_SMELL
+f
+squid:S106×"9Replace this use of System.out or System.err by a logger.(—É¬H™}RMAJORZ
+CODE_SMELL
+hsquid:S1854’":Remove this useless assignment to local variable "middle".(Ëº»HÏ}RMAJORZ
+CODE_SMELL
+`squid:S2093·	"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿH²|RCRITICALZ
+CODE_SMELL
+lsquid:S2696Ú"6Make the enclosing method "static" or remove this set.(öôîÀøÿÿÿÿH¹}RCRITICALZ
+CODE_SMELL
+f
+squid:S106´"9Replace this use of System.out or System.err by a logger.(ÍşºéHë|RMAJORZ
+CODE_SMELL
+fsquid:S1197“"8Move the array designator from the variable to the type.(¶½ËH„|RMINORZ
+CODE_SMELL
+psquid:S2583À"DChange this condition so that it does not always evaluate to "false"(¢•öşÿÿÿÿH¦}RMAJORZBUG
+fsquid:S1197ó"8Move the array designator from the variable to the type.(•‰†ŒH›|RMINORZ
+CODE_SMELL
+f
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(ƒÈåËHà|RMAJORZ
+CODE_SMELL
+Tsquid:S1148å"#Use a logger to log this exception.(òçøìHæ}RMINORZVULNERABILITY
+fsquid:S1197 "8Move the array designator from the variable to the type.(ƒíŒ‘Hü{RMINORZ
+CODE_SMELL
+k
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(ö¯åÇşÿÿÿÿHÚ|RMAJORZ
+CODE_SMELL
+Ysquid:S1148Â"#Use a logger to log this exception.(¡„àŒúÿÿÿÿHá}RMINORZVULNERABILITY
+Xsquid:S1148W"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÓ}RMINORZVULNERABILITY
+f
+squid:S106²
+"9Replace this use of System.out or System.err by a logger.(½èíŠHä|RMAJORZ
+CODE_SMELL
+k
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH¡}RMAJORZ
+CODE_SMELL
+k
+squid:S106´
+"9Replace this use of System.out or System.err by a logger.(ÂÖÂñùÿÿÿÿHš}RMAJORZ
+CODE_SMELL
+fsquid:S1197á"8Move the array designator from the variable to the type.(´©ÈÉH‚|RMINORZ
+CODE_SMELL
+f
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(¨§³·HÅ|RMAJORZ
+CODE_SMELL
+wsquid:S1192é	"FDefine a constant instead of duplicating this literal "Total" 4 times.(ÃóÎøHŸ|RCRITICALZ
+CODE_SMELL
+Tsquid:S1659í"!Declare "mod" on a separate line.(Áû¸¾úÿÿÿÿHê{RMINORZ
+CODE_SMELL
+ˆsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(ĞšîüÿÿÿÿHÀ}RCRITICALZ
+CODE_SMELL
+k
+squid:S106â"9Replace this use of System.out or System.err by a logger.(ü¬‹éşÿÿÿÿH†}RMAJORZ
+CODE_SMELL
+k
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿH“}RMAJORZ
+CODE_SMELL
+Vsquid:S1659ü"#Declare "temp2" on a separate line.(ßĞÊòúÿÿÿÿHù{RMINORZ
+CODE_SMELL
+ksquid:S1197ì"8Move the array designator from the variable to the type.(Æ€áíúÿÿÿÿHˆ|RMINORZ
+CODE_SMELL
+Rsquid:S1659¡"Declare "c" on a separate line.(„û ”ùÿÿÿÿHè{RMINORZ
+CODE_SMELL
+k
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(çÖşûÿÿÿÿH„}RMAJORZ
+CODE_SMELL
+†
+squid:S135®"YReduce the total number of break and continue statements in this loop to use at most one.(îô‘ËH»|RMINORZ
+CODE_SMELL
+Ysquid:S1148Õ	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHß}RMINORZVULNERABILITY
+Ysquid:S1172Ë"&Remove these unused method parameters.(É½™¤ùÿÿÿÿHÆ}RMAJORZ
+CODE_SMELL
+osquid:S2184Ë"HCast one of the operands of this multiplication operation to a "double".(­‘ˆòHÖ{RMINORZBUG
+k
+squid:S106°
+"9Replace this use of System.out or System.err by a logger.(æ÷áÅıÿÿÿÿHƒ}RMAJORZ
+CODE_SMELL
+k
+squid:S106ù"9Replace this use of System.out or System.err by a logger.(‘À¦ÿÿÿÿÿH¾|RMAJORZ
+CODE_SMELL
+Wsquid:S1659ß	"$Declare "pulses" on a separate line.(öüöïÿÿÿÿÿHë{RMINORZ
+CODE_SMELL
+Ysquid:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÙ}RMINORZVULNERABILITY
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğİìúÿÿÿÿHÀ|RMAJORZ
+CODE_SMELL
+Œsquid:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıø¹ÎøÿÿÿÿH¨|RMINORZ
+CODE_SMELL
+Vsquid:S1125œ	"(Remove the literal "true" boolean value.(ÿ™ûÕH¯}RMINORZ
+CODE_SMELL
+Vsquid:S1659ô"#Declare "temp2" on a separate line.(ÂéùÙúÿÿÿÿHå{RMINORZ
+CODE_SMELL
+Œsquid:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñåÙ¯üÿÿÿÿH¯|RMINORZ
+CODE_SMELL
+e
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(õ¤ØYH€}RMAJORZ
+CODE_SMELL
+ksquid:S1197²"8Move the array designator from the variable to the type.(–•ÚØüÿÿÿÿH…|RMINORZ
+CODE_SMELL
+k
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHĞ|RMAJORZ
+CODE_SMELL
+bsquid:S1066Ø"/Merge this if statement with the enclosing one.(ö¿„°úÿÿÿÿH§|RMAJORZ
+CODE_SMELL
+ksquid:S1197Ë"8Move the array designator from the variable to the type.(É½™¤ùÿÿÿÿH|RMINORZ
+CODE_SMELL
+ksquid:S1197±"8Move the array designator from the variable to the type.(€æÀñùÿÿÿÿH€|RMINORZ
+CODE_SMELL
+ksquid:S1197“"8Move the array designator from the variable to the type.(‚óıÿÿÿÿH|RMINORZ
+CODE_SMELL
+f
+squid:S106†"9Replace this use of System.out or System.err by a logger.(”™óÙHè|RMAJORZ
+CODE_SMELL
+`squid:S2093£"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿH·|RCRITICALZ
+CODE_SMELL
+k
+squid:S106è"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHê|RMAJORZ
+CODE_SMELL
+Ysquid:S1659Î"&Declare "countRow" on a separate line.(†Æ¼§ÿÿÿÿÿHõ{RMINORZ
+CODE_SMELL
+Ysquid:S1148á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHØ}RMINORZVULNERABILITY
+‡squid:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(øäãÑH°|RMINORZ
+CODE_SMELL
+k
+squid:S106±"9Replace this use of System.out or System.err by a logger.(ÿâöøÿÿÿÿHó|RMAJORZ
+CODE_SMELL
+ˆsquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(‡¹óøşÿÿÿÿHÄ}RCRITICALZ
+CODE_SMELL
+fsquid:S1197é"8Move the array designator from the variable to the type.(íèÖìH|RMINORZ
+CODE_SMELL
+ksquid:S1197Ê"8Move the array designator from the variable to the type.(Ò£Ï™ÿÿÿÿÿH|RMINORZ
+CODE_SMELL
+Vsquid:S1659ô"#Declare "temp3" on a separate line.(ÂéùÙúÿÿÿÿHæ{RMINORZ
+CODE_SMELL
+esquid:S1197º"8Move the array designator from the variable to the type.(•°í!H‡|RMINORZ
+CODE_SMELL
+k
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(É³úÿÿÿÿHË|RMAJORZ
+CODE_SMELL
+Xsquid:S1659"*Declare "randomColumn" on a separate line.(èşÿÏHò{RMINORZ
+CODE_SMELL
+f
+squid:S106Á	"9Replace this use of System.out or System.err by a logger.(²ªŠÍHØ|RMAJORZ
+CODE_SMELL
+psquid:S2583ú"DChange this condition so that it does not always evaluate to "false"(º“Ø…øÿÿÿÿH£}RMAJORZBUG
+‡squid:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Çœ×Hª|RMINORZ
+CODE_SMELL
+f
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(ûÀÚûHú|RMAJORZ
+CODE_SMELL
+k
+squid:S106ğ"9Replace this use of System.out or System.err by a logger.(³›­ÌøÿÿÿÿHğ|RMAJORZ
+CODE_SMELL
+esquid:S1197Ä"8Move the array designator from the variable to the type.(ìöœ(Hÿ{RMINORZ
+CODE_SMELL
+†squid:CommentedOutCodeLineø	"<This block of commented-out lines of code should be removed.(ñ‚»ñşÿÿÿÿ8ëÒÀÄ«,H˜†RMAJORZ
+CODE_SMELL
+k
+squid:S106…"9Replace this use of System.out or System.err by a logger.(á”¥ŞùÿÿÿÿH‰}RMAJORZ
+CODE_SMELL
+k
+squid:S106·"9Replace this use of System.out or System.err by a logger.(¸¬úÿÿÿÿHã|RMAJORZ
+CODE_SMELL
+Œsquid:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿH®|RMINORZ
+CODE_SMELL
+fsquid:S1197”"8Move the array designator from the variable to the type.(»üÊùH|RMINORZ
+CODE_SMELL
+f
+squid:S106¿	"9Replace this use of System.out or System.err by a logger.(ıËâäHÖ|RMAJORZ
+CODE_SMELL
+k
+squid:S106©
+"9Replace this use of System.out or System.err by a logger.(Â¯¨ÎøÿÿÿÿHø|RMAJORZ
+CODE_SMELL
+ksquid:S2583"DChange this condition so that it does not always evaluate to "false"(ı¤ÌÿHª}RMAJORZBUG
+f
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(ó­±HÌ|RMAJORZ
+CODE_SMELL
+`squid:S2093â	"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHµ|RCRITICALZ
+CODE_SMELL
+e
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(î½­LH‘}RMAJORZ
+CODE_SMELL
+}squid:S1192½	"GDefine a constant instead of duplicating this literal "Pulses" 3 times.(½À ÄÿÿÿÿÿH£|RCRITICALZ
+CODE_SMELL
+tsquid:S1126À"AReplace this if-then-else statement by a single return statement.(´İğçøÿÿÿÿH¬}RMINORZ
+CODE_SMELL
+`squid:S1481ó
+"-Remove this unused "pattern2" local variable.(êÚğıÿÿÿÿH¼}RMINORZ
+CODE_SMELL
+psquid:S2583¬"DChange this condition so that it does not always evaluate to "false"(È¯•†ùÿÿÿÿH§}RMAJORZBUG
+Tsquid:S1148ˆ"#Use a logger to log this exception.(òçøìHå}RMINORZVULNERABILITY
+Usquid:S1659ß	""Declare "json" on a separate line.(öüöïÿÿÿÿÿHì{RMINORZ
+CODE_SMELL
+k
+squid:S106“"9Replace this use of System.out or System.err by a logger.(°İ¡¡ûÿÿÿÿH÷|RMAJORZ
+CODE_SMELL
+Tsquid:S1148«"#Use a logger to log this exception.(òçøìHÜ}RMINORZVULNERABILITY
+Jsquid:S1643ã"Use a StringBuilder instead.(°®Ÿ¼Hİ{RMINORZ
+CODE_SMELL
+ksquid:S1197¼"8Move the array designator from the variable to the type.(Èí«óşÿÿÿÿHš|RMINORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(âŸ¥İHé|RMAJORZ
+CODE_SMELL
+f
+squid:S106±"9Replace this use of System.out or System.err by a logger.(±¤ª¹Hü|RMAJORZ
+CODE_SMELL
+k
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHŒ}RMAJORZ
+CODE_SMELL
+hsquid:S2184è"ACast one of the operands of this division operation to a "float".(Âó¿HÙ{RMINORZBUG
+k
+squid:S106è"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH¢}RMAJORZ
+CODE_SMELL
+gsquid:S2184è"@Cast one of the operands of this integer division to a "double".(Âó¿HÚ{RMINORZBUG
+ksquid:S2583¢"DChange this condition so that it does not always evaluate to "false"(×‘§H©}RMAJORZBUG
+Xsquid:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÒ}RMINORZVULNERABILITY
+f
+squid:S106ç
+"9Replace this use of System.out or System.err by a logger.(â‹şHâ|RMAJORZ
+CODE_SMELL
+Ysquid:S1148»"#Use a logger to log this exception.(¡„àŒúÿÿÿÿHÛ}RMINORZVULNERABILITY
+ksquid:S1197ü"8Move the array designator from the variable to the type.(ßĞÊòúÿÿÿÿH•|RMINORZ
+CODE_SMELL
+ksquid:S1197Ë"8Move the array designator from the variable to the type.(É½™¤ùÿÿÿÿH–|RMINORZ
+CODE_SMELL
+Osquid:S1643­	"Use a StringBuilder instead.(’ï¯êùÿÿÿÿHà{RMINORZ
+CODE_SMELL
+f
+squid:S106—"9Replace this use of System.out or System.err by a logger.(õ´½ÁHÁ|RMAJORZ
+CODE_SMELL
+f
+squid:S106Š	"9Replace this use of System.out or System.err by a logger.(üüï’HÑ|RMAJORZ
+CODE_SMELL
+k
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(¨ÉôªşÿÿÿÿH‹}RMAJORZ
+CODE_SMELL
+e
+squid:S106ü
+"9Replace this use of System.out or System.err by a logger.(ıìôaH}RMAJORZ
+CODE_SMELL
+k
+squid:S106å"9Replace this use of System.out or System.err by a logger.(¸î“ÈÿÿÿÿÿHì|RMAJORZ
+CODE_SMELL
+ksquid:S2583„"DChange this condition so that it does not always evaluate to "false"(ÂõèŸH¨}RMAJORZBUG
+k
+squid:S106«"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHæ|RMAJORZ
+CODE_SMELL
+Ysquid:S1148–"#Use a logger to log this exception.(¡„àŒúÿÿÿÿHä}RMINORZVULNERABILITY
+`squid:S2093¤"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿH´|RCRITICALZ
+CODE_SMELL
+ksquid:S1197”"8Move the array designator from the variable to the type.(—õ£±ùÿÿÿÿH|RMINORZ
+CODE_SMELL
+f
+squid:S106¬	"9Replace this use of System.out or System.err by a logger.(üüï’HÕ|RMAJORZ
+CODE_SMELL
+ksquid:S1197"8Move the array designator from the variable to the type.(ˆ²€ÒùÿÿÿÿHŠ|RMINORZ
+CODE_SMELL
+qsquid:S2095Ğ
+"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(§ËË´H¸|RBLOCKERZBUG
+lsquid:S2184Ú"@Cast one of the operands of this integer division to a "double".(¢‹ÿûÿÿÿÿHØ{RMINORZBUG
+Tsquid:S1659"&Declare "computer" on a separate line.(èşÿÏHó{RMINORZ
+CODE_SMELL
+k
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿH˜}RMAJORZ
+CODE_SMELL
+f
+squid:S106Ò
+"9Replace this use of System.out or System.err by a logger.(ï‡€™HÙ|RMAJORZ
+CODE_SMELL
+k
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(¸î“ÈÿÿÿÿÿHò|RMAJORZ
+CODE_SMELL
+Ysquid:S1148Ç	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÚ}RMINORZVULNERABILITY
+`squid:S2093Ô"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿH¶|RCRITICALZ
+CODE_SMELL
+osquid:S1126õ"AReplace this if-then-else statement by a single return statement.(àÿ‡H­}RMINORZ
+CODE_SMELL
+Vsquid:S1125ò"(Remove the literal "true" boolean value.(ÿ™ûÕH±}RMINORZ
+CODE_SMELL
+|squid:S1192¾	"FDefine a constant instead of duplicating this literal "Wheat" 3 times.(‘ØÃ™ûÿÿÿÿH¡|RCRITICALZ
+CODE_SMELL
+Ysquid:S1148“"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH×}RMINORZVULNERABILITY
+”squid:S1488Ã"fImmediately return this expression instead of assigning it to the temporary variable "numberofbinary".(ó´ÀHµ}RMINORZ
+CODE_SMELL
+f
+squid:S106ù"9Replace this use of System.out or System.err by a logger.(áıñHô|RMAJORZ
+CODE_SMELL
+Vsquid:S1125Œ"(Remove the literal "true" boolean value.(Éƒ•ÜH²}RMINORZ
+CODE_SMELL
+k
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(æôúÿÿÿÿHí|RMAJORZ
+CODE_SMELL
+osquid:S1854ó
+"<Remove this useless assignment to local variable "pattern2".(êÚğıÿÿÿÿHĞ}RMAJORZ
+CODE_SMELL
+Tsquid:S1148´"#Use a logger to log this exception.(òçøìHâ}RMINORZVULNERABILITY
+Vsquid:S1659ß	"#Declare "wheat" on a separate line.(öüöïÿÿÿÿÿHí{RMINORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì­Ä€HŠ}RMAJORZ
+CODE_SMELL
+[squid:S1444+"+Make this "public static mNote" field final(Ä¦íóH±|RMINORZVULNERABILITY
+˜"squid:ClassVariableVisibilityCheck+"QMake mNote a static final constant or non-public and provide accessors if needed.(Ä¦íóHº}RMINORZVULNERABILITY
+fsquid:S1197ù"8Move the array designator from the variable to the type.(…½àHƒ|RMINORZ
+CODE_SMELL
+k
+squid:S106²"9Replace this use of System.out or System.err by a logger.(ÉôÎııÿÿÿÿHö|RMAJORZ
+CODE_SMELL
+Vsquid:S1125¸"(Remove the literal "true" boolean value.(ÿ™ûÕH°}RMINORZ
+CODE_SMELL
+k
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(·‹ÿáúÿÿÿÿHÊ|RMAJORZ
+CODE_SMELL
+fsquid:S1197­"8Move the array designator from the variable to the type.(İ˜îŞH™|RMINORZ
+CODE_SMELL
+Wsquid:S1905•")Remove this unnecessary cast to "String".(áÙÄèH»}RMINORZ
+CODE_SMELL
+fsquid:S1197"8Move the array designator from the variable to the type.(×ÔÚŒH‹|RMINORZ
+CODE_SMELL
+f
+squid:S106÷
+"9Replace this use of System.out or System.err by a logger.(ï½ÎÚH…}RMAJORZ
+CODE_SMELL
+f
+squid:S106©"9Replace this use of System.out or System.err by a logger.(³ŒÏìH}RMAJORZ
+CODE_SMELL
+k
+squid:S106«"9Replace this use of System.out or System.err by a logger.(Ãˆ±²ıÿÿÿÿHÃ|RMAJORZ
+CODE_SMELL
+psquid:S2583˜"DChange this condition so that it does not always evaluate to "false"(¡¢Ë¢ùÿÿÿÿH¤}RMAJORZBUG
+ˆsquid:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(¹ßø™ùÿÿÿÿH½}RCRITICALZ
+CODE_SMELL
+Psquid:S1659¢
+"#Declare "total" on a separate line.(Œ¿×!Hï{RMINORZ
+CODE_SMELL
+ksquid:S2583¶"DChange this condition so that it does not always evaluate to "false"(¹‹ôúH¥}RMAJORZBUG
+†squid:CommentedOutCodeLineË
+"<This block of commented-out lines of code should be removed.(¡ÄÕˆúÿÿÿÿ8ÀÌÇÄ«,HË†RMAJORZ
+CODE_SMELL
+n
+squid:S106"9Replace this use of System.out or System.err by a logger.(î  ¦8ÀÌÇÄ«,HÌ†RMAJORZ
+CODE_SMELL

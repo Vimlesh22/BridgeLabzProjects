@@ -1,0 +1,18 @@
+
+qsquid:S2147'"DCombine this catch with the one at line 35, which has the same body.(־¿ְ¿HÞRMINORZ
+CODE_SMELL
+_squid:S2093"*Change this "try" to a try-with-resources.(ח£ךתÿÿÿÿHÚRCRITICALZ
+CODE_SMELL
+Xsquid:S1148:"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿHדRMINORZVULNERABILITY
+Xsquid:S1148%"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿHאRMINORZVULNERABILITY
+vsquid:S2147+"DCombine this catch with the one at line 35, which has the same body.(ֹ˜ÙתÿÿÿÿHßRMINORZ
+CODE_SMELL
+•squid:S4165"hRemove this useless assignment; "jsonObject" already holds the assigned value along all execution paths.(שÊ׀“HÙRMAJORZ
+CODE_SMELL
+gsquid:S1118":Add a private constructor to hide the implicit public one.(בÊװ׃HÜRMAJORZ
+CODE_SMELL
+Xsquid:S1148-"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿHגRMINORZVULNERABILITY
+Xsquid:S1148)"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿHבRMINORZVULNERABILITY
+j
+squid:S106K"9Replace this use of System.out or System.err by a logger.(©¬טשÿÿÿÿHÛRMAJORZ
+CODE_SMELL

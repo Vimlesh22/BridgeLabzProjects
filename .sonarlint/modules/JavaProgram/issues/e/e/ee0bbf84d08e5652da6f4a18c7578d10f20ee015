@@ -1,0 +1,29 @@
+
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(á€Ü¶8ðß¶Æ«,H×‰RMAJORZ
+CODE_SMELL
+r
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ßÎË•úÿÿÿÿ8ðß¶Æ«,HÙ‰RMAJORZ
+CODE_SMELL
+m
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ü…óÓ8ðß¶Æ«,Hß‰RMAJORZ
+CODE_SMELL
+r
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÄÖÑ‹úÿÿÿÿ8ðß¶Æ«,Hà‰RMAJORZ
+CODE_SMELL
+m
+squid:S106 "9Replace this use of System.out or System.err by a logger.(„ï–Ï8ðß¶Æ«,HÛ‰RMAJORZ
+CODE_SMELL
+`squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8øããÆ«,HÜ‰RMINORZVULNERABILITY
+m
+squid:S106&"9Replace this use of System.out or System.err by a logger.(È®ü„8ðß¶Æ«,HÝ‰RMAJORZ
+CODE_SMELL
+m
+squid:S106""9Replace this use of System.out or System.err by a logger.(—þÕÁ8ðß¶Æ«,Hâ‰RMAJORZ
+CODE_SMELL
+r
+squid:S106'"9Replace this use of System.out or System.err by a logger.(®ÚÝÓþÿÿÿÿ8ðß¶Æ«,HÞ‰RMAJORZ
+CODE_SMELL
+m
+squid:S106%"9Replace this use of System.out or System.err by a logger.(§Ó¥å8ðß¶Æ«,HÚ‰RMAJORZ
+CODE_SMELL

@@ -1,0 +1,37 @@
+
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦…çµÿÿÿÿÿ8›„Š‘­,H¸RMAJORZ
+CODE_SMELL
+r
+squid:S106+"9Replace this use of System.out or System.err by a logger.(–ùÁ€úÿÿÿÿ8ÉëÍ‘­,H¹RMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(º‹úÎ8›„Š‘­,HºRMAJORZ
+CODE_SMELL
+r
+squid:S106("9Replace this use of System.out or System.err by a logger.(ø»íÃüÿÿÿÿ8•ü¿‘­,H»RMAJORZ
+CODE_SMELL
+r
+squid:S106$"9Replace this use of System.out or System.err by a logger.(†åÆƒıÿÿÿÿ8›„Š‘­,H¼RMAJORZ
+CODE_SMELL
+r
+squid:S106*"9Replace this use of System.out or System.err by a logger.(î‘¤Îøÿÿÿÿ8ÉëÍ‘­,H½RMAJORZ
+CODE_SMELL
+r
+squid:S106%"9Replace this use of System.out or System.err by a logger.(£şİüÿÿÿÿ8›„Š‘­,H¾RMAJORZ
+CODE_SMELL
+‰squid:S3923-"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¨ÕÉ8•ü¿‘­,H¿RMAJORZBUG
+r
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÆÁôÜıÿÿÿÿ8›„Š‘­,HÀRMAJORZ
+CODE_SMELL
+l
+squid:S106)"9Replace this use of System.out or System.err by a logger.(õ‘C8•ü¿‘­,HÁRMAJORZ
+CODE_SMELL
+m
+squid:S106&"9Replace this use of System.out or System.err by a logger.(æœÍ8›„Š‘­,HÂRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(±ÍÔÄÿÿÿÿÿ8›„Š‘­,HÃRMAJORZ
+CODE_SMELL
+€squid:S1301-"KReplace this "switch" statement by "if" statements to increase readability.(¨ÕÉ8•ü¿‘­,HÄRMINORZ
+CODE_SMELL

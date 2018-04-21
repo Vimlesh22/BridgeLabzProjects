@@ -1,0 +1,21 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(„Å¡ÊþÿÿÿÿHû…RMAJORZ
+CODE_SMELL
+Vsquid:S1125%"(Remove the literal "true" boolean value.(øÃÀ¶Hý…RMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸ÕÈŸøÿÿÿÿ8ÿŽ¶Ä«,Hþ…RMAJORZ
+CODE_SMELL
+k
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿHú…RMAJORZ
+CODE_SMELL
+fsquid:S1197"8Move the array designator from the variable to the type.(Ò´ÄÖH÷…RMINORZ
+CODE_SMELL
+k
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÏÄ¬ÇùÿÿÿÿHü…RMAJORZ
+CODE_SMELL
+‡squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡¡åðHù…RMINORZ
+CODE_SMELL
+r
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ô«é¸ûÿÿÿÿ8›œÊÄ«,HÎ†RMAJORZ
+CODE_SMELL

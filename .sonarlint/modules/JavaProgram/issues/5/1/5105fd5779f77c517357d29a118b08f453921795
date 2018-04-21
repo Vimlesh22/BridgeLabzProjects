@@ -1,0 +1,70 @@
+
+r
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(•»Íıÿÿÿÿ8 µ–Æ«,H‘ŒRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ÚİÓşÿÿÿÿ8 µ–Æ«,HˆŒRMAJORZ
+CODE_SMELL
+k
+squid:S106#"9Replace this use of System.out or System.err by a logger.(óç§ùÿÿÿÿH˜ŒRMAJORZ
+CODE_SMELL
+j"squid:SwitchLastCaseIsDefaultCheckT""Add a default case to this switch.(ÂˆÏæH•ŒRCRITICALZ
+CODE_SMELL
+q"squid:SwitchLastCaseIsDefaultCheck!""Add a default case to this switch.(¨ÕÉ8ªƒ²Æ«,HƒŒRCRITICALZ
+CODE_SMELL
+Tsquid:S1075$"&Remove this hard-coded path-delimiter.(Ï²îúHŒRMINORZ
+CODE_SMELL
+lsquid:S1854">Remove this useless assignment to local variable "personList".(¹šŞöHŠŒRMAJORZ
+CODE_SMELL
+k
+squid:S1061"9Replace this use of System.out or System.err by a logger.(•»ÍıÿÿÿÿH‰ŒRMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(á€Ü¶H‚ŒRMAJORZ
+CODE_SMELL
+w
+squid:S899&"BDo something with the "boolean" value returned by "createNewFile".(Ğ’ÍùÿÿÿÿH’ŒRMINORZVULNERABILITY
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛšâÛ8 µ–Æ«,H„ŒRMAJORZ
+CODE_SMELL
+m
+squid:S106B"9Replace this use of System.out or System.err by a logger.(°Š±¶8 µ–Æ«,HŒŒRMAJORZ
+CODE_SMELL
+j"squid:SwitchLastCaseIsDefaultCheck,""Add a default case to this switch.(£€ÃH”ŒRCRITICALZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(°Ü²Ò8 µ–Æ«,H“ŒRMAJORZ
+CODE_SMELL
+m
+squid:S106R"9Replace this use of System.out or System.err by a logger.(°Ü²Ò8 µ–Æ«,HŒRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(À½øÿÿÿÿH…ŒRMAJORZ
+CODE_SMELL
+f
+squid:S1066"9Replace this use of System.out or System.err by a logger.(×—äÕH‹ŒRMAJORZ
+CODE_SMELL
+squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(´úÿÿÿÿ8ªƒ²Æ«,HŒRCRITICALZ
+CODE_SMELL
+f
+squid:S106i"9Replace this use of System.out or System.err by a logger.(°Š±¶HšŒRMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š±‚ëH†ŒRMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(û¤òÅH‡ŒRMAJORZ
+CODE_SMELL
+tsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(¥ÓğæùÿÿÿÿH™ŒRMINORZ
+CODE_SMELL
+k
+squid:S106J"9Replace this use of System.out or System.err by a logger.(‡»¾ûúÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+f
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ÌŠˆH—ŒRMAJORZ
+CODE_SMELL
+Tsquid:S1075K"&Remove this hard-coded path-delimiter.(Ï²îúHŒRMINORZ
+CODE_SMELL
+k
+squid:S106^"9Replace this use of System.out or System.err by a logger.(Óé ñıÿÿÿÿH–ŒRMAJORZ
+CODE_SMELL

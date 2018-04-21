@@ -1,0 +1,43 @@
+
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëô¯Å8‘âô­,HàRMAJORZ
+CODE_SMELL
+asquid:S1481("-Remove this unused "mobileNo" local variable.(ô×Ê8Õº­­,HñRMINORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ”Œ8Ê©í­,HRMAJORZ
+CODE_SMELL
+psquid:S1854("<Remove this useless assignment to local variable "mobileNo".(ô×Ê8Õº­­,HòRMAJORZ
+CODE_SMELL
+csquid:S1481$")Remove this unused "name" local variable.(éÄëşÿÿÿÿ8Õº­­,HğRMINORZ
+CODE_SMELL
+psquid:S1854&"<Remove this useless assignment to local variable "password".(Â‰ç
+8±Úë­,HŸRMAJORZ
+CODE_SMELL
+rsquid:S1854$"8Remove this useless assignment to local variable "name".(éÄëşÿÿÿÿ8Õº­­,HóRMAJORZ
+CODE_SMELL
+r
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8±Úë­,HœRMAJORZ
+CODE_SMELL
+asquid:S1481""'Remove this unused "id" local variable.(£ƒÄìúÿÿÿÿ8±Úë­,HRMINORZ
+CODE_SMELL
+asquid:S1481&"-Remove this unused "password" local variable.(Â‰ç
+8±Úë­,HRMINORZ
+CODE_SMELL
+r
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ë—ñœøÿÿÿÿ8Õº­­,HïRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(û…àÙøÿÿÿÿ8ÀÉ—­,HûRMAJORZ
+CODE_SMELL
+m
+squid:S106%"9Replace this use of System.out or System.err by a logger.(Ù˜İ£8‘âô­,HüRMAJORZ
+CODE_SMELL
+psquid:S1854""6Remove this useless assignment to local variable "id".(£ƒÄìúÿÿÿÿ8±Úë­,H RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(£øç58‘âô­,HßRMAJORZ
+CODE_SMELL
+r
+squid:S106'"9Replace this use of System.out or System.err by a logger.(íÓĞ€şÿÿÿÿ8‘âô­,HŞRMAJORZ
+CODE_SMELL

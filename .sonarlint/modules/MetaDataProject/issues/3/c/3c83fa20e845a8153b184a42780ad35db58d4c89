@@ -1,0 +1,16 @@
+
+psquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹H…˜RBLOCKERZBUG
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ñÆùÿÿÿÿHŠ˜RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿHˆ˜RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š™‹ÍüÿÿÿÿH‰˜RMAJORZ
+CODE_SMELL
+vsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¡÷ÔùÿÿÿÿH†˜RBLOCKERZBUG
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(²³•ìıÿÿÿÿH‹˜RMAJORZ
+CODE_SMELL
+xsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ÿı¡æH‡˜RBLOCKERZBUG

@@ -1,0 +1,42 @@
+
+f
+squid:S106<"9Replace this use of System.out or System.err by a logger.(°Ñ£¼Hñ‰RMAJORZ
+CODE_SMELL
+ysquid:HiddenFieldCheckB";Rename "address" which hides the field declared at line 21.(ª¹£ÿÿÿÿÿÿHò‰RMAJORZ
+CODE_SMELL
+vsquid:HiddenFieldCheck="8Rename "city" which hides the field declared at line 17.(Ú´‹êüÿÿÿÿHã‰RMAJORZ
+CODE_SMELL
+k
+squid:S106-"9Replace this use of System.out or System.err by a logger.(µóÃîüÿÿÿÿHê‰RMAJORZ
+CODE_SMELL
+f
+squid:S106+"9Replace this use of System.out or System.err by a logger.(éÕÀÄHç‰RMAJORZ
+CODE_SMELL
+\squid:S1905N")Remove this unnecessary cast to "Person".(åÓ ®úÿÿÿÿHî‰RMINORZ
+CODE_SMELL
+k
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ÀÝ÷øÿÿÿÿHè‰RMAJORZ
+CODE_SMELL
+rsquid:HiddenFieldCheck?"9Rename "state" which hides the field declared at line 18.(ÀªŒÃHí‰RMAJORZ
+CODE_SMELL
+k
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¥ÔÑ‡øÿÿÿÿHë‰RMAJORZ
+CODE_SMELL
+usquid:HiddenFieldCheck6"<Rename "iterator" which hides the field declared at line 20.(€‚ªHä‰RMAJORZ
+CODE_SMELL
+f
+squid:S106'"9Replace this use of System.out or System.err by a logger.(°Ñ£¼Hæ‰RMAJORZ
+CODE_SMELL
+k
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Ìù©®þÿÿÿÿHå‰RMAJORZ
+CODE_SMELL
+k
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Ìù©®þÿÿÿÿHï‰RMAJORZ
+CODE_SMELL
+f
+squid:S106@"9Replace this use of System.out or System.err by a logger.(„¦Ž‹Hé‰RMAJORZ
+CODE_SMELL
+ssquid:HiddenFieldCheck9":Rename "person" which hides the field declared at line 22.(±®ûËHì‰RMAJORZ
+CODE_SMELL
+usquid:HiddenFieldCheckA"7Rename "zip" which hides the field declared at line 23.(§¥ãÃþÿÿÿÿHð‰RMAJORZ
+CODE_SMELL

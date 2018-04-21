@@ -1,0 +1,24 @@
+
+k
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ŒËµÀûÿÿÿÿHá‘RMAJORZ
+CODE_SMELL
+f
+squid:S1060"9Replace this use of System.out or System.err by a logger.(î­Ö³Hâ‘RMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄŞ¡ÄHã‘RMAJORZ
+CODE_SMELL
+squid:S1319%"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÕåÅHä‘RMINORZ
+CODE_SMELL
+usquid:S001125"FDefine and throw a dedicated exception instead of using a generic one.(ªš¾‹Hå‘RMAJORZ
+CODE_SMELL
+zsquid:S00112H"FDefine and throw a dedicated exception instead of using a generic one.(‚ı”ÖûÿÿÿÿHæ‘RMAJORZ
+CODE_SMELL
+usquid:S00112%"FDefine and throw a dedicated exception instead of using a generic one.(ÕåÅHç‘RMAJORZ
+CODE_SMELL
+usquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(­í”àHè‘RMAJORZ
+CODE_SMELL
+Usquid:S1659""Declare "pst2" on a separate line.(€‡›ùÿÿÿÿHé‘RMINORZ
+CODE_SMELL
+Usquid:S1659""Declare "pst3" on a separate line.(€‡›ùÿÿÿÿHê‘RMINORZ
+CODE_SMELL

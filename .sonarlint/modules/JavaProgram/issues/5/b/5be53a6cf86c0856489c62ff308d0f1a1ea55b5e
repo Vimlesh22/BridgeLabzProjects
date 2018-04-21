@@ -1,0 +1,142 @@
+
+s
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(Çì²¾üÿÿÿÿ8éÙÊ÷«,H‘RMAJORZ
+CODE_SMELL
+Zsquid:S1148í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH’RMINORZVULNERABILITY
+s
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(Şİ¿Àúÿÿÿÿ8éÙÊ÷«,H“RMAJORZ
+CODE_SMELL
+]squid:S1905ˆ")Remove this unnecessary cast to "Doctor".(ÅâªúÿÿÿÿH”RMINORZ
+CODE_SMELL
+fsquid:S1481Ñ"2Remove this unused "doctorIterate" local variable.(‚©éÒşÿÿÿÿH•RMINORZ
+CODE_SMELL
+s
+squid:S106²"9Replace this use of System.out or System.err by a logger.(£¶°úÿÿÿÿ8éÙÊ÷«,H–RMAJORZ
+CODE_SMELL
+tsquid:HiddenFieldCheck}";Rename "patient" which hides the field declared at line 32.(àğŞ­H—RMAJORZ
+CODE_SMELL
+^squid:S1905“"*Remove this unnecessary cast to "Patient".(İ•»şÿÿÿÿH˜RMINORZ
+CODE_SMELL
+Zsquid:S1148è"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH™RMINORZVULNERABILITY
+k
+squid:S106P"9Replace this use of System.out or System.err by a logger.(×Œ©¹ùÿÿÿÿHšRMAJORZ
+CODE_SMELL
+tsquid:S1075%"ARefactor your code to get this URI from a customizable parameter.(Ù€‰´ûÿÿÿÿH›RMINORZ
+CODE_SMELL
+m
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(¡÷î8éÙÊ÷«,HœRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø‰èûÿÿÿÿHRMAJORZ
+CODE_SMELL
+n
+squid:S106´"9Replace this use of System.out or System.err by a logger.(üğÌ8éÙÊ÷«,HRMAJORZ
+CODE_SMELL
+Ysquid:S1148s"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHŸRMINORZVULNERABILITY
+osquid:S1075'"ARefactor your code to get this URI from a customizable parameter.(ÑõÃôH RMINORZ
+CODE_SMELL
+Zsquid:S1148¬"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¡RMINORZVULNERABILITY
+s
+squid:S106º"9Replace this use of System.out or System.err by a logger.(ÒÊë˜şÿÿÿÿ8éÙÊ÷«,H¢RMAJORZ
+CODE_SMELL
+Ysquid:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH£RMINORZVULNERABILITY
+r
+squid:S106u"9Replace this use of System.out or System.err by a logger.(„ÍÌàøÿÿÿÿ8Êßåô«,H¤RMAJORZ
+CODE_SMELL
+]squid:S1905í")Remove this unnecessary cast to "Doctor".(ÅâªúÿÿÿÿH¥RMINORZ
+CODE_SMELL
+n
+squid:S106·"9Replace this use of System.out or System.err by a logger.(ûôÇÀ8éÙÊ÷«,H¦RMAJORZ
+CODE_SMELL
+s
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(°“¸şÿÿÿÿ8éÙÊ÷«,H§RMAJORZ
+CODE_SMELL
+s
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(«…ÿÿÿÿÿ8éÙÊ÷«,H¨RMAJORZ
+CODE_SMELL
+]squid:S1905Ò")Remove this unnecessary cast to "Doctor".(ÅâªúÿÿÿÿH©RMINORZ
+CODE_SMELL
+xsquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ÄëÖô«,HªRMINORZ
+CODE_SMELL
+„squid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ÃÌ‰H«RCRITICALZ
+CODE_SMELL
+Zsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¬RMINORZVULNERABILITY
+l
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(¡¹—ÒøÿÿÿÿH­RMAJORZ
+CODE_SMELL
+k
+squid:S106L"9Replace this use of System.out or System.err by a logger.(«ÎÖµøÿÿÿÿH®RMAJORZ
+CODE_SMELL
+f
+squid:S106U"9Replace this use of System.out or System.err by a logger.(¦•µ•H¯RMAJORZ
+CODE_SMELL
+^squid:S1905»"*Remove this unnecessary cast to "Patient".(Í´« ûÿÿÿÿH°RMINORZ
+CODE_SMELL
+s
+squid:S106°"9Replace this use of System.out or System.err by a logger.(ù»¡–ùÿÿÿÿ8éÙÊ÷«,H±RMAJORZ
+CODE_SMELL
+Zsquid:S1148Í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH²RMINORZVULNERABILITY
+g
+squid:S106­"9Replace this use of System.out or System.err by a logger.(œğ†H³RMAJORZ
+CODE_SMELL
+f
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ÍÃ•ÛH´RMAJORZ
+CODE_SMELL
+g
+squid:S106®"9Replace this use of System.out or System.err by a logger.(ˆ¥´ÏHµRMAJORZ
+CODE_SMELL
+m
+squid:S106½"9Replace this use of System.out or System.err by a logger.(çš¨/8éÙÊ÷«,H¶RMAJORZ
+CODE_SMELL
+s
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(Ï»İÀşÿÿÿÿ8éÙÊ÷«,H·RMAJORZ
+CODE_SMELL
+s
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(Í·Óúÿÿÿÿ8éÙÊ÷«,H¸RMAJORZ
+CODE_SMELL
+s
+squid:S106º"9Replace this use of System.out or System.err by a logger.(‡˜¹›ÿÿÿÿÿ8éÙÊ÷«,H¹RMAJORZ
+CODE_SMELL
+^squid:S1905ò"*Remove this unnecessary cast to "Patient".(Í´« ûÿÿÿÿHºRMINORZ
+CODE_SMELL
+Zsquid:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH»RMINORZVULNERABILITY
+Ysquid:S1148c"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¼RMINORZVULNERABILITY
+k
+squid:S106y"9Replace this use of System.out or System.err by a logger.(«Ğ·¬ùÿÿÿÿH½RMAJORZ
+CODE_SMELL
+Zsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¾RMINORZVULNERABILITY
+Zsquid:S1148Ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¿RMINORZVULNERABILITY
+s
+squid:S106±"9Replace this use of System.out or System.err by a logger.(óœ¤İıÿÿÿÿ8éÙÊ÷«,HÀRMAJORZ
+CODE_SMELL
+l
+squid:S106š"9Replace this use of System.out or System.err by a logger.(¡¹—ÒøÿÿÿÿHÁRMAJORZ
+CODE_SMELL
+s
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(´¸Ê•ûÿÿÿÿ8éÙÊ÷«,HÂRMAJORZ
+CODE_SMELL
+f
+squid:S106{"9Replace this use of System.out or System.err by a logger.(º¦ıHÃRMAJORZ
+CODE_SMELL
+]squid:S1905¢")Remove this unnecessary cast to "Doctor".(ÅâªúÿÿÿÿHÄRMINORZ
+CODE_SMELL
+^squid:S1905×"*Remove this unnecessary cast to "Patient".(Í´« ûÿÿÿÿHÅRMINORZ
+CODE_SMELL
+Zsquid:S1148¶"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÆRMINORZVULNERABILITY
+Ysquid:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÇRMINORZVULNERABILITY
+f
+squid:S106w"9Replace this use of System.out or System.err by a logger.(şèîüHÈRMAJORZ
+CODE_SMELL
+s
+squid:S106³"9Replace this use of System.out or System.err by a logger.(­ªÍüÿÿÿÿ8éÙÊ÷«,HÉRMAJORZ
+CODE_SMELL
+s
+squid:S106»"9Replace this use of System.out or System.err by a logger.(Æ«ÆŒÿÿÿÿÿ8éÙÊ÷«,HÊRMAJORZ
+CODE_SMELL
+tsquid:S1075)"ARefactor your code to get this URI from a customizable parameter.(®¼½íúÿÿÿÿHËRMINORZ
+CODE_SMELL
+f
+squid:S106J"9Replace this use of System.out or System.err by a logger.(ùë¢âHÌRMAJORZ
+CODE_SMELL
+Zsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÍRMINORZVULNERABILITY
+Zsquid:S1148´"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÎRMINORZVULNERABILITY

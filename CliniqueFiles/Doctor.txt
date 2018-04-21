@@ -1,0 +1,37 @@
+[ {
+  "id" : 1,
+  "doctorName" : "Ganesh",
+  "specialization" : "gyno",
+  "availability" : "Pm",
+  "noOfPatients" : 0
+}, {
+  "id" : 2,
+  "doctorName" : "Vimlesh",
+  "specialization" : "general",
+  "availability" : "am",
+  "noOfPatients" : 5
+}, {
+  "id" : 3,
+  "doctorName" : "Harpreet",
+  "specialization" : "xxx",
+  "availability" : "am",
+  "noOfPatients" : 0
+}, {
+  "id" : 4,
+  "doctorName" : "mukesh",
+  "specialization" : "oth",
+  "availability" : "pm",
+  "noOfPatients" : 0
+}, {
+  "id" : 5,
+  "doctorName" : "anshul",
+  "specialization" : "general",
+  "availability" : "pm",
+  "noOfPatients" : 2
+}, {
+  "id" : 6,
+  "doctorName" : "suresh",
+  "specialization" : "nothing",
+  "availability" : "both",
+  "noOfPatients" : 0
+} ]

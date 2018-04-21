@@ -1,0 +1,25 @@
+
+l
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Úª÷8‹—˜®,HÙ˜RMAJORZ
+CODE_SMELL
+`squid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¡¶Û–®,HÚ˜RMINORZVULNERABILITY
+r
+squid:S106%"9Replace this use of System.out or System.err by a logger.(êçÀÛûÿÿÿÿ8‹—˜®,HÛ˜RMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ñ¬8‹—˜®,HÜ˜RMAJORZ
+CODE_SMELL
+`squid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8âÿ—®,Hİ˜RMINORZVULNERABILITY
+`squid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¡¶Û–®,HŞ˜RMINORZVULNERABILITY
+m
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ÛÎØ8‹—˜®,Hß˜RMAJORZ
+CODE_SMELL
+‡squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ»àÛ8‹—˜®,Hà˜RMINORZ
+CODE_SMELL
+|squid:S2095!"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8‹—˜®,Há˜RBLOCKERZBUG
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(®Ï„¥ÿÿÿÿÿ8‹—˜®,Hâ˜RMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(³¼¥Ó8‹—˜®,Hã˜RMAJORZ
+CODE_SMELL

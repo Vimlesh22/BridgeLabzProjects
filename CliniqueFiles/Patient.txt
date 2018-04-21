@@ -1,0 +1,31 @@
+[ {
+  "id" : 1,
+  "patientName" : "ramesh",
+  "phoneNumber" : 7798177837,
+  "age" : 23
+}, {
+  "id" : 2,
+  "patientName" : "rajaram",
+  "phoneNumber" : 123456789,
+  "age" : 25
+}, {
+  "id" : 3,
+  "patientName" : "prachi",
+  "phoneNumber" : 12121,
+  "age" : 24
+}, {
+  "id" : 4,
+  "patientName" : "harpreet",
+  "phoneNumber" : 5555,
+  "age" : 24
+}, {
+  "id" : 5,
+  "patientName" : "nikhil",
+  "phoneNumber" : 333,
+  "age" : 25
+}, {
+  "id" : 6,
+  "patientName" : "vikas",
+  "phoneNumber" : 7777,
+  "age" : 24
+} ]

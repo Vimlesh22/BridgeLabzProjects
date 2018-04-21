@@ -1,0 +1,65 @@
+
+r
+squid:S1069"9Replace this use of System.out or System.err by a logger.(˜¶ÜÇşÿÿÿÿ8£İÚ¾®,HÑ˜RMAJORZ
+CODE_SMELL
+}squid:S2095s"HUse try-with-resources or close this "Connection" in a "finally" clause.(ôşôÇÿÿÿÿÿ8ú‹ƒ¼®,HÂ˜RBLOCKERZBUG
+r
+squid:S106H"9Replace this use of System.out or System.err by a logger.(´İüÄúÿÿÿÿ8Û®¥¿®,H‰™RMAJORZ
+CODE_SMELL
+m
+squid:S106y"9Replace this use of System.out or System.err by a logger.(ˆÂıŸ8ÒÍä¿®,HŸ™RMAJORZ
+CODE_SMELL
+n
+squid:S106"9Replace this use of System.out or System.err by a logger.(Íëá“8ÒÍä¿®,H¡™RMAJORZ
+CODE_SMELL
+„squid:S2095N"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Í”¥ñúÿÿÿÿ8Òƒ½¿®,H‘™RBLOCKERZBUG
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œ­ïÏ8£İÚ¾®,HĞ˜RMAJORZ
+CODE_SMELL
+l
+squid:S106@"9Replace this use of System.out or System.err by a logger.(š8ƒİí½®,HÈ˜RMAJORZ
+CODE_SMELL
+vsquid:S2259a"HA "NullPointerException" could be thrown; "connection" is nullable here.(ğñşª8å£Ì¿®,H–™RMAJORZBUG
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëí¾øÿÿÿÿ8ö®ò½®,HË˜RMAJORZ
+CODE_SMELL
+asquid:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Äîñ»®,H›™RMINORZVULNERABILITY
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò½Õ›ùÿÿÿÿ8ƒİí½®,HÉ˜RMAJORZ
+CODE_SMELL
+osquid:S1141L"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ8Òƒ½¿®,H’™RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(É¥—Çüÿÿÿÿ8Û®¥¿®,HŠ™RMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(°Ü²Ò8Û®¥¿®,Hˆ™RMAJORZ
+CODE_SMELL
+„squid:S2095v"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïı±òúÿÿÿÿ8ƒİí½®,HÄ˜RBLOCKERZBUG
+l
+squid:S106{"9Replace this use of System.out or System.err by a logger.(š8ÒÍä¿®,H ™RMAJORZ
+CODE_SMELL
+n
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(È·ëí8Ãï†À®,H£™RMAJORZ
+CODE_SMELL
+`squid:S1148e"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8£İÚ¾®,HÖ˜RMINORZVULNERABILITY
+n
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(¼‰Šø8Ãï†À®,H¤™RMAJORZ
+CODE_SMELL
+„squid:S2095;"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïı±òúÿÿÿÿ8£İÚ¾®,HÎ˜RBLOCKERZBUG
+}squid:S20953"HUse try-with-resources or close this "Connection" in a "finally" clause.(ôşôÇÿÿÿÿÿ8£İÚ¾®,HÏ˜RBLOCKERZBUG
+m
+squid:S106<"9Replace this use of System.out or System.err by a logger.(³¼¥Ó8ƒİí½®,HÆ˜RMAJORZ
+CODE_SMELL
+m
+squid:S106I"9Replace this use of System.out or System.err by a logger.(©Æ¨„8£İÚ¾®,HÒ˜RMAJORZ
+CODE_SMELL
+m
+squid:S106w"9Replace this use of System.out or System.err by a logger.(³¼¥Ó8ÒÍä¿®,H™RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ÚİÓşÿÿÿÿ8ƒİí½®,HÅ˜RMAJORZ
+CODE_SMELL
+m
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ˆÂıŸ8ƒİí½®,HÇ˜RMAJORZ
+CODE_SMELL

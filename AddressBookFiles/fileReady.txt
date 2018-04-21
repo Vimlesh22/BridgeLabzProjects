@@ -1,0 +1,10 @@
+[ {
+  "firstName" : "vimlesh",
+  "lastName" : "kumar",
+  "address" : {
+    "city" : "mumbai",
+    "state" : "mahara",
+    "zip" : 40078
+  },
+  "mobileNo" : 222
+} ]

@@ -1,0 +1,102 @@
+
+m
+squid:S106è"9Replace this use of System.out or System.err by a logger.(š8ë„’Å­,H€—RMAJORZ
+CODE_SMELL
+n
+squid:S106à"9Replace this use of System.out or System.err by a logger.(‘Ğº®8˜é’®,Hë–RMAJORZ
+CODE_SMELL
+m
+squid:S106L"9Replace this use of System.out or System.err by a logger.(ÚìÊş8À“ÏÄ­,Hÿ–RMAJORZ
+CODE_SMELL
+`squid:S1148T"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‰¿ÎÅ­,Hê–RMINORZVULNERABILITY
+`squid:S1148k"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ë„’Å­,H’—RMINORZVULNERABILITY
+jsquid:UselessImportCheck"/Remove this unused import 'java.sql.Statement'.(ÏÖÔøHè–RMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ç½–şÿÿÿÿH”—RMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(È®ü„H÷–RMAJORZ
+CODE_SMELL
+Zsquid:S1148ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH—RMINORZVULNERABILITY
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ‡8À“ÏÄ­,H‚—RMAJORZ
+CODE_SMELL
+€squid:S2095ì"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÉøÙ´8˜é’®,Hı–RBLOCKERZBUG
+s
+squid:S106©"9Replace this use of System.out or System.err by a logger.(êçÀÛûÿÿÿÿ8À“ÏÄ­,H—RMAJORZ
+CODE_SMELL
+m
+squid:S106«"9Replace this use of System.out or System.err by a logger.(Úª÷8‰¿ÎÅ­,Hé–RMAJORZ
+CODE_SMELL
+asquid:S1148Ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜é’®,Hô–RMINORZVULNERABILITY
+asquid:S1148Ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‰¿ÎÅ­,HŒ—RMINORZVULNERABILITY
+s
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(—‘©¢şÿÿÿÿ8åÔÄÅ­,Hñ–RMAJORZ
+CODE_SMELL
+asquid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ë„’Å­,H‰—RMINORZVULNERABILITY
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(“‡»—Hä–RMAJORZ
+CODE_SMELL
+“squid:S1192F"VDefine a constant instead of duplicating this literal "com.mysql.jdbc.Driver" 4 times.(¹µÖÁüÿÿÿÿ8åÔÄÅ­,Hç–RCRITICALZ
+CODE_SMELL
+s
+squid:S106›"9Replace this use of System.out or System.err by a logger.(¢Ï´Åşÿÿÿÿ8åÔÄÅ­,Hş–RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹Ì€ˆúÿÿÿÿH—RMAJORZ
+CODE_SMELL
+asquid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜é’®,Hƒ—RMINORZVULNERABILITY
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(š8˜é’®,Hí–RMAJORZ
+CODE_SMELL
+n
+squid:S106™"9Replace this use of System.out or System.err by a logger.(³¼¥Ó8åÔÄÅ­,Hü–RMAJORZ
+CODE_SMELL
+asquid:S1148‚"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ë„’Å­,Hó–RMINORZVULNERABILITY
+asquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8À“ÏÄ­,H—RMINORZVULNERABILITY
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã¹é®ûÿÿÿÿ8À“ÏÄ­,Hˆ—RMAJORZ
+CODE_SMELL
+l
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(¢Ï´ÅşÿÿÿÿHì–RMAJORZ
+CODE_SMELL
+asquid:S1148œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¡ãÀÄ­,H…—RMINORZVULNERABILITY
+asquid:S1148¬"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åÔÄÅ­,H‘—RMINORZVULNERABILITY
+~squid:S2095ë"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ê˜ˆ„şÿÿÿÿ8˜é’®,H†—RBLOCKERZBUG
+Ysquid:S1148`"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHæ–RMINORZVULNERABILITY
+asquid:S1148æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8À“ÏÄ­,HŠ—RMINORZVULNERABILITY
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢Ä½úHî–RMAJORZ
+CODE_SMELL
+asquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‰¿ÎÅ­,Hú–RMINORZVULNERABILITY
+wsquid:S2095I"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹8‰¿ÎÅ­,H‡—RBLOCKERZBUG
+asquid:S1148Ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åÔÄÅ­,Hï–RMINORZVULNERABILITY
+m
+squid:S106w"9Replace this use of System.out or System.err by a logger.(ÛÎØ8˜é’®,Hö–RMAJORZ
+CODE_SMELL
+n
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(´á°÷8˜é’®,Hò–RMAJORZ
+CODE_SMELL
+squid:S1192G"aDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/user" 6 times.(Ê˜ˆ„şÿÿÿÿ8ë„’Å­,Hù–RCRITICALZ
+CODE_SMELL
+asquid:S1148õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜é’®,H‹—RMINORZVULNERABILITY
+n
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(³¼¥Ó8ë„’Å­,Hğ–RMAJORZ
+CODE_SMELL
+asquid:S1148Æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åÔÄÅ­,H—RMINORZVULNERABILITY
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(âäêùÿÿÿÿH“—RMAJORZ
+CODE_SMELL
+s
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(çÊô÷ûÿÿÿÿ8»Åô’®,Hå–RMAJORZ
+CODE_SMELL
+asquid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8À“ÏÄ­,Hû–RMINORZVULNERABILITY
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(è§ÕHõ–RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(²«åàûÿÿÿÿH„—RMAJORZ
+CODE_SMELL
+asquid:S1481ğ"+Remove this unused "result" local variable.(áä•’8˜é’®,Hø–RMINORZ
+CODE_SMELL

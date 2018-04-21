@@ -1,0 +1,151 @@
+
+f
+squid:S106P"9Replace this use of System.out or System.err by a logger.(‘¨à­Hó‰RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(²—— üÿÿÿÿHô‰RMAJORZ
+CODE_SMELL
+f
+squid:S106y"9Replace this use of System.out or System.err by a logger.(‘¨à­Hõ‰RMAJORZ
+CODE_SMELL
+fsquid:S1197:"8Move the array designator from the variable to the type.(¾…ÅàHö‰RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿH÷‰RMAJORZ
+CODE_SMELL
+k
+squid:S106`"9Replace this use of System.out or System.err by a logger.(¡æóşÿÿÿÿHø‰RMAJORZ
+CODE_SMELL
+ksquid:S1197$"8Move the array designator from the variable to the type.(æíÏ˜úÿÿÿÿHù‰RMINORZ
+CODE_SMELL
+€squid:S1192Z"ODefine a constant instead of duplicating this literal "Sorted Array: " 4 times.(ç¯‡ŞHú‰RCRITICALZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÎòÍøÿÿÿÿHû‰RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(àöåqHü‰RMAJORZ
+CODE_SMELL
+k
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ĞıáïùÿÿÿÿHı‰RMAJORZ
+CODE_SMELL
+f
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ˆàíHş‰RMAJORZ
+CODE_SMELL
+f
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(ç¯‡ŞHÿ‰RMAJORZ
+CODE_SMELL
+fsquid:S1197Q"8Move the array designator from the variable to the type.(ºÿöôH€ŠRMINORZ
+CODE_SMELL
+‰squid:S1192#"XDefine a constant instead of duplicating this literal "Enter Elements of array" 6 times.(ãÚâ‘HŠRCRITICALZ
+CODE_SMELL
+g
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘¨à­H‚ŠRMAJORZ
+CODE_SMELL
+g
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ç¯‡ŞHƒŠRMAJORZ
+CODE_SMELL
+e
+squid:S1061"9Replace this use of System.out or System.err by a logger.(’ß‚CH„ŠRMAJORZ
+CODE_SMELL
+f
+squid:S1062"9Replace this use of System.out or System.err by a logger.(õõÔH…ŠRMAJORZ
+CODE_SMELL
+fsquid:S1197z"8Move the array designator from the variable to the type.(éÀ­ÖH†ŠRMINORZ
+CODE_SMELL
+f
+squid:S106e"9Replace this use of System.out or System.err by a logger.(‘¨à­H‡ŠRMAJORZ
+CODE_SMELL
+}squid:S11922"LDefine a constant instead of duplicating this literal " nanosecond" 6 times.(õõÔHˆŠRCRITICALZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø™ÃÊH‰ŠRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒáı~HŠŠRMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(™æñÿÿÿÿÿH‹ŠRMAJORZ
+CODE_SMELL
+k
+squid:S106G"9Replace this use of System.out or System.err by a logger.(´÷Ú¸şÿÿÿÿHŒŠRMAJORZ
+CODE_SMELL
+g
+squid:S106™"9Replace this use of System.out or System.err by a logger.(ç¯‡ŞHŠRMAJORZ
+CODE_SMELL
+o"squid:SwitchLastCaseIsDefaultCheck!""Add a default case to this switch.(ãËûÿÿÿÿHŠRCRITICALZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦‰÷ÏHŠRMAJORZ
+CODE_SMELL
+f
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ùÔÆíHŠRMAJORZ
+CODE_SMELL
+g
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(éÃ¾ÙH‘ŠRMAJORZ
+CODE_SMELL
+k
+squid:S106_"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿH’ŠRMAJORZ
+CODE_SMELL
+f
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ÇÆæËH“ŠRMAJORZ
+CODE_SMELL
+k
+squid:S106r"9Replace this use of System.out or System.err by a logger.(‹Â¥±üÿÿÿÿH”ŠRMAJORZ
+CODE_SMELL
+f
+squid:S106o"9Replace this use of System.out or System.err by a logger.(ç¯‡ŞH•ŠRMAJORZ
+CODE_SMELL
+f
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ãÚâ‘H–ŠRMAJORZ
+CODE_SMELL
+–squid:S1192`"`Define a constant instead of duplicating this literal "Time Elapsed to sort an array: " 4 times.(¡æóşÿÿÿÿH—ŠRCRITICALZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜š“‡H˜ŠRMAJORZ
+CODE_SMELL
+gsquid:S1197"8Move the array designator from the variable to the type.(àÜò¡H™ŠRMINORZ
+CODE_SMELL
+f
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ÇÆæËHšŠRMAJORZ
+CODE_SMELL
+l
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿH›ŠRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(šşÿÙıÿÿÿÿHœŠRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ»ĞŞıÿÿÿÿHŠRMAJORZ
+CODE_SMELL
+k
+squid:S106t"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHŠRMAJORZ
+CODE_SMELL
+g
+squid:S106†"9Replace this use of System.out or System.err by a logger.(É´íòHŸŠRMAJORZ
+CODE_SMELL
+k
+squid:S106K"9Replace this use of System.out or System.err by a logger.(·½Õ½üÿÿÿÿH ŠRMAJORZ
+CODE_SMELL
+ksquid:S1197f"8Move the array designator from the variable to the type.(ÀƒüùÿÿÿÿH¡ŠRMINORZ
+CODE_SMELL
+f
+squid:S106u"9Replace this use of System.out or System.err by a logger.(ì¸ÁŒH¢ŠRMAJORZ
+CODE_SMELL
+l
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ÁªÜñûÿÿÿÿH£ŠRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(®‚şQH¤ŠRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø°ª×ùÿÿÿÿH¥ŠRMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø”«H¦ŠRMAJORZ
+CODE_SMELL
+k
+squid:S1065"9Replace this use of System.out or System.err by a logger.(·½Õ½üÿÿÿÿH§ŠRMAJORZ
+CODE_SMELL
+ƒsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Çµí‘H¨ŠRCRITICALZ
+CODE_SMELL
