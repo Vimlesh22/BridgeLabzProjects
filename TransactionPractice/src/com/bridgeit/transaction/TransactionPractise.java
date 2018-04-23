@@ -1,11 +1,16 @@
 package com.bridgeit.transaction;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.sql.Savepoint;
+import java.util.Properties;
 import java.util.Scanner;
 
 public class TransactionPractise {
@@ -39,19 +44,27 @@ public class TransactionPractise {
 		transaction();
 	
 	}
+	
 	public static void savePoint()
 	{
 		Connection connection=null;
 		PreparedStatement preparedStatement=null;
 		PreparedStatement preparedStatement2=null;
 		Savepoint savepoint = null;
+		Properties properties=new Properties();
+		InputStream inputStream=null;
 		try 
 		{
-			Class.forName("com.mysql.jdbc.Driver");
-			connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/user?useSSL=false","root","root");
+			inputStream=new FileInputStream("/home/bridgeit/project/TransactionPractice/lib/DBproperties.properties");
+			properties.load(inputStream);
+			String driver=properties.getProperty("MYSQLJDBC.driver");
+			String url=properties.getProperty("MYSQLJDBC.url");
+			String username=properties.getProperty("MYSQLJDBC.username");
+			String password=properties.getProperty("MYSQLJDBC.password");
+			Class.forName(driver);
+			connection=DriverManager.getConnection(url,username,password);
 			connection.setAutoCommit(false);
 			DatabaseMetaData databaseMetaData=connection.getMetaData();
-			
 			if(databaseMetaData.supportsSavepoints())
 			{
 				System.out.println("----insert data------");
@@ -75,35 +88,58 @@ public class TransactionPractise {
 				String deleteQuery="delete from students where id=?";
 				try
 				{
-				preparedStatement2=connection.prepareStatement(deleteQuery);
-				preparedStatement2.setInt(1, deleteRows);
-				preparedStatement2.execute();
-				}catch(SQLException sq)
+					preparedStatement2=connection.prepareStatement(deleteQuery);
+					preparedStatement2.setInt(1, deleteRows);
+					preparedStatement2.execute();
+				}
+				catch(SQLException sq)
 				{
 					connection.rollback(savepoint);
 				}
-				connection.commit();
-				
-				
-				
-				
-				
-			}
-		} 
-		catch (ClassNotFoundException | SQLException e) 
-		{
-			try 
-			{
-				connection.rollback(savepoint);
-			} 
-			catch (SQLException e1) 
-			{
-				e1.printStackTrace();
+				connection.commit();	
 			}
 		}
-		
+		catch (SQLException | ClassNotFoundException | IOException e) 
+		{
+				e.printStackTrace();
+		}
+		finally
+		{
+			if(connection!=null)
+			{
+				try 
+				{
+					connection.close();
+				} 
+				catch (SQLException e) 
+				{
+					e.printStackTrace();
+				}
+			}
+			if(preparedStatement!=null)
+			{
+				try 
+				{
+					preparedStatement.close();
+				} 
+				catch (SQLException e) 
+				{
+					e.printStackTrace();
+				}
+			}
+			if(preparedStatement2!=null)
+			{
+				try 
+				{
+					preparedStatement2.close();
+				}
+				catch (SQLException e) 
+				{
+					e.printStackTrace();
+				}
+			}
+		}
 	}
-	
 	
 	public static void transaction()
 	{
@@ -149,7 +185,30 @@ public class TransactionPractise {
 		{
 					e.printStackTrace();
 		}
-
+		finally
+		{
+			if(connection!=null)
+			{
+				try 
+				{
+					connection.close();
+				} 
+				catch (SQLException e) 
+				{
+					e.printStackTrace();
+				}
+			}
+			if(preparedStatement!=null)
+			{
+				try 
+				{
+					preparedStatement.close();
+				} 
+				catch (SQLException e) 
+				{
+					e.printStackTrace();
+				}
+			}
+		}
 	}
-
 }

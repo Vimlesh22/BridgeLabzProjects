@@ -1,18 +1,18 @@
 
-r
-squid:S106"9Replace this use of System.out or System.err by a logger.(–ÁÕ·ùÿÿÿÿ8Ëğ·´®,H”˜RMAJORZ
-CODE_SMELL
-`squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ëğ·´®,H–˜RMINORZVULNERABILITY
 m
-squid:S106"9Replace this use of System.out or System.err by a logger.(€¡³À8Ëğ·´®,H‘˜RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ºÄ8Ëğ·´®,HÁ™RMAJORZ
 CODE_SMELL
-}squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(‰Ê‡ÿşÿÿÿÿ8Ëğ·´®,H˜RBLOCKERZBUG
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ÁÕ·ùÿÿÿÿ8Ëğ·´®,HÀ™RMAJORZ
+CODE_SMELL
 m
-squid:S106"9Replace this use of System.out or System.err by a logger.(‰ºÄ8Ëğ·´®,H˜RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(€¡³À8Ëğ·´®,HÅ™RMAJORZ
+CODE_SMELL
+}squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(‰Ê‡ÿşÿÿÿÿ8Ëğ·´®,HÃ™RBLOCKERZBUG
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(é“®Ûûÿÿÿÿ8Ëğ·´®,HÂ™RMAJORZ
 CODE_SMELL
 r
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ô¦äÿÿÿÿÿ8Ëğ·´®,H“˜RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô¦äÿÿÿÿÿ8Ëğ·´®,HÄ™RMAJORZ
 CODE_SMELL
-r
-squid:S106"9Replace this use of System.out or System.err by a logger.(é“®Ûûÿÿÿÿ8Ëğ·´®,H’˜RMAJORZ
-CODE_SMELL
+`squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ëğ·´®,HÆ™RMINORZVULNERABILITY

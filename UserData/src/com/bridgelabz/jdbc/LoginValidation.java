@@ -45,6 +45,7 @@ public class LoginValidation {
 	{
 		Connection connection=null;
 		PreparedStatement preparedStatement=null;
+		String insertQuery="insert into login(user,password) values(?,?)";
 		System.out.println("Enter User Name");
 		String userName=scanner.next();
 		System.out.println("Enter Password");
@@ -53,7 +54,7 @@ public class LoginValidation {
 		{
 			Class.forName("com.mysql.jdbc.Driver");
 			connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/test","root","root");
-			String insertQuery="insert into login(user,password) values(?,?)";
+			
 			preparedStatement=connection.prepareStatement(insertQuery);
 			preparedStatement.setString(1,userName);
 			preparedStatement.setString(2, password);
@@ -71,6 +72,7 @@ public class LoginValidation {
 	{
 		Connection connection=null;
 		PreparedStatement preparedStatement=null;
+		String selectQuery="select * from login where user = ? and passowrd = ?";
 		System.out.println("Enter User Name");
 		String userName=scanner.next();
 		System.out.println("Enter Password");
@@ -79,16 +81,18 @@ public class LoginValidation {
 		{
 			Class.forName("com.mysql.jdbc.Driver");
 			connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/test","root","root");
-			String selectQuery="select * from login";
+			
 			preparedStatement=connection.prepareStatement(selectQuery);
+			preparedStatement.setString(1, userName);
+			preparedStatement.setString(2, password);
 			ResultSet result=preparedStatement.executeQuery();
-			while(result.next())
+			if(result.next())
 			{
-				if(result.getString(2).equals(userName) && result.getString(3).equals(password))
-				{
+				/*if(result.getString(2).equals(userName) && result.getString(3).equals(password))
+				{*/
 					System.out.println("Login Successfull for "+userName.toUpperCase());
 					return 1;
-				}
+				//}
 			}
 		} 
 		catch (ClassNotFoundException | SQLException e) 

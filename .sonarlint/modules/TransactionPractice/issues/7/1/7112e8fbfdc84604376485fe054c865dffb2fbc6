@@ -1,65 +1,68 @@
 
-r
-squid:S1069"9Replace this use of System.out or System.err by a logger.(˜¶ÜÇşÿÿÿÿ8£İÚ¾®,HÑ˜RMAJORZ
-CODE_SMELL
-}squid:S2095s"HUse try-with-resources or close this "Connection" in a "finally" clause.(ôşôÇÿÿÿÿÿ8ú‹ƒ¼®,HÂ˜RBLOCKERZBUG
-r
-squid:S106H"9Replace this use of System.out or System.err by a logger.(´İüÄúÿÿÿÿ8Û®¥¿®,H‰™RMAJORZ
-CODE_SMELL
 m
-squid:S106y"9Replace this use of System.out or System.err by a logger.(ˆÂıŸ8ÒÍä¿®,HŸ™RMAJORZ
+squid:S106I"9Replace this use of System.out or System.err by a logger.(³¼¥Ó8ƒİí½®,H¯™RMAJORZ
 CODE_SMELL
 n
-squid:S106"9Replace this use of System.out or System.err by a logger.(Íëá“8ÒÍä¿®,H¡™RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÂıŸ8£İÚ¾®,H½™RMAJORZ
 CODE_SMELL
-„squid:S2095N"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Í”¥ñúÿÿÿÿ8Òƒ½¿®,H‘™RBLOCKERZBUG
+`squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¾¸Û†¯,HĞ™RMINORZVULNERABILITY
+asquid:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“Íß†¯,HÒ™RMINORZVULNERABILITY
+osquid:S1141Y"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ8àÑŠˆ¯,HÜ™RMAJORZ
+CODE_SMELL
 m
-squid:S106"9Replace this use of System.out or System.err by a logger.(Œ­ïÏ8£İÚ¾®,HĞ˜RMAJORZ
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ˆÂıŸ8ƒİí½®,H¶™RMAJORZ
+CODE_SMELL
+n
+squid:S106§"9Replace this use of System.out or System.err by a logger.(¼‰Šø8Û®¥¿®,Hµ™RMAJORZ
+CODE_SMELL
+`squid:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Äîñ»®,H»™RMINORZVULNERABILITY
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(°Ü²Ò8£İÚ¾®,H¸™RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò½Õ›ùÿÿÿÿ8£İÚ¾®,H¥™RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(É¥—Çüÿÿÿÿ8Ãï†À®,Hª™RMAJORZ
+CODE_SMELL
+m
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(š8ƒİí½®,H®™RMAJORZ
+CODE_SMELL
+n
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(È·ëí8ö®ò½®,H¾™RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëí¾øÿÿÿÿ8Û®¥¿®,H¿™RMAJORZ
+CODE_SMELL
+r
+squid:S106F"9Replace this use of System.out or System.err by a logger.(˜¶ÜÇşÿÿÿÿ8ÒÍä¿®,H­™RMAJORZ
+CODE_SMELL
+n
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(Íëá“8ƒİí½®,H¨™RMAJORZ
 CODE_SMELL
 l
-squid:S106@"9Replace this use of System.out or System.err by a logger.(š8ƒİí½®,HÈ˜RMAJORZ
+squid:S106M"9Replace this use of System.out or System.err by a logger.(š8ÒÍä¿®,H°™RMAJORZ
 CODE_SMELL
-vsquid:S2259a"HA "NullPointerException" could be thrown; "connection" is nullable here.(ğñşª8å£Ì¿®,H–™RMAJORZBUG
-r
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ëí¾øÿÿÿÿ8ö®ò½®,HË˜RMAJORZ
-CODE_SMELL
-asquid:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Äîñ»®,H›™RMINORZVULNERABILITY
-r
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ò½Õ›ùÿÿÿÿ8ƒİí½®,HÉ˜RMAJORZ
-CODE_SMELL
-osquid:S1141L"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ8Òƒ½¿®,H’™RMAJORZ
-CODE_SMELL
-r
-squid:S106"9Replace this use of System.out or System.err by a logger.(É¥—Çüÿÿÿÿ8Û®¥¿®,HŠ™RMAJORZ
-CODE_SMELL
-m
-squid:S106"9Replace this use of System.out or System.err by a logger.(°Ü²Ò8Û®¥¿®,Hˆ™RMAJORZ
-CODE_SMELL
-„squid:S2095v"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïı±òúÿÿÿÿ8ƒİí½®,HÄ˜RBLOCKERZBUG
-l
-squid:S106{"9Replace this use of System.out or System.err by a logger.(š8ÒÍä¿®,H ™RMAJORZ
+gsquid:S20938"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8ËÄÅˆ¯,Hø™RCRITICALZ
 CODE_SMELL
 n
-squid:S106‚"9Replace this use of System.out or System.err by a logger.(È·ëí8Ãï†À®,H£™RMAJORZ
+squid:S106›"9Replace this use of System.out or System.err by a logger.(³¼¥Ó8Ãï†À®,H«™RMAJORZ
 CODE_SMELL
-`squid:S1148e"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8£İÚ¾®,HÖ˜RMINORZVULNERABILITY
-n
-squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(¼‰Šø8Ãï†À®,H¤™RMAJORZ
-CODE_SMELL
-„squid:S2095;"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïı±òúÿÿÿÿ8£İÚ¾®,HÎ˜RBLOCKERZBUG
-}squid:S20953"HUse try-with-resources or close this "Connection" in a "finally" clause.(ôşôÇÿÿÿÿÿ8£İÚ¾®,HÏ˜RBLOCKERZBUG
+`squid:S1148t"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8û±‚ˆ¯,H÷™RMINORZVULNERABILITY
+asquid:S1148º"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£İÚ¾®,H±™RMINORZVULNERABILITY
+asquid:S1148Æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¾¸Û†¯,HÏ™RMINORZVULNERABILITY
 m
-squid:S106<"9Replace this use of System.out or System.err by a logger.(³¼¥Ó8ƒİí½®,HÆ˜RMAJORZ
+squid:S106V"9Replace this use of System.out or System.err by a logger.(©Æ¨„8ÒÍä¿®,H©™RMAJORZ
 CODE_SMELL
 m
-squid:S106I"9Replace this use of System.out or System.err by a logger.(©Æ¨„8£İÚ¾®,HÒ˜RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œ­ïÏ8Û®¥¿®,H¦™RMAJORZ
 CODE_SMELL
-m
-squid:S106w"9Replace this use of System.out or System.err by a logger.(³¼¥Ó8ÒÍä¿®,H™RMAJORZ
+squid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8‘šÇˆ¯,Hû™RMINORZ
+CODE_SMELL
+asquid:S1148Ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“Íß†¯,HÑ™RMINORZVULNERABILITY
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ÚİÓşÿÿÿÿ8ƒİí½®,Hº™RMAJORZ
 CODE_SMELL
 r
-squid:S106"9Replace this use of System.out or System.err by a logger.(®ÚİÓşÿÿÿÿ8ƒİí½®,HÅ˜RMAJORZ
-CODE_SMELL
-m
-squid:S106>"9Replace this use of System.out or System.err by a logger.(ˆÂıŸ8ƒİí½®,HÇ˜RMAJORZ
+squid:S106U"9Replace this use of System.out or System.err by a logger.(´İüÄúÿÿÿÿ8ÒÍä¿®,H³™RMAJORZ
 CODE_SMELL
